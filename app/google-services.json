@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "483877904912",
+    "firebase_url": "https://avail-8f8dc.firebaseio.com",
+    "project_id": "avail-8f8dc",
+    "storage_bucket": "avail-8f8dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483877904912:android:0a561103706e744edda095",
+        "android_client_info": {
+          "package_name": "com.example.avail"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "483877904912-3hioof0p2e5akb3p27l8qn12g5b8etdv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOyo_NoxX9oOPoNE8VNRx4BYnbt3_596s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "483877904912-3hioof0p2e5akb3p27l8qn12g5b8etdv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

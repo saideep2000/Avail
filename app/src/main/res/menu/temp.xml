@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/recordvoice"
+        android:icon="@drawable/ic_baseline_record_voice_over_24"
+        android:title="Voice" />
+
+    <item
+        android:id="@+id/textvoice"
+        android:icon="@drawable/ic_baseline_text_rotation_none_24"
+        android:title="Text" />
+
+    <item
+        android:id="@+id/camera"
+        android:icon="@drawable/ic_baseline_linked_camera_24"
+        android:title="Cam" />
+
+<!--    <item-->
+<!--        android:id="@+id/fav"-->
+<!--        android:icon="@drawable/ic_baseline_favorite_24"-->
+<!--        android:title="Favorite" />-->
+
+    <item
+        android:id="@+id/account"
+        android:icon="@drawable/ic_baseline_account_circle_24"
+        android:title="Account" />
+
+
+
+</menu>
